@@ -1,1 +1,1 @@
-# codeeval-solutions-php
+# CodeEval Challenges Solution in PHP
